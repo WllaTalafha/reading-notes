@@ -45,7 +45,10 @@ it is like arguments in the functions, it can pass numbers, texts, or anything e
 
 ### **8- What are some examples of things that we could store in state?**
 
-you can use state with forms to store the data from the user; like texts, numbers, checkboxes(true or false), and so on.
-also, you can use state with everything you want to change dynamically by user request; like a counter that changes every time for the same component.
-Things I want to know more about
-I would practice with state and props more and more to understand them correctly.
+- you can use state with forms to store the data from the user; like texts, numbers, checkboxes(true or false), and so on.
+- also, you can use state with everything you want to change dynamically by user request; like a counter that changes every time for the same component.
+
+---
+
+### **Things I want to know more about**
+- I would practice with state and props more and more to understand them correctly.
