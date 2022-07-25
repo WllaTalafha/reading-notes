@@ -12,19 +12,13 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 
 | no. | Title|
 | --- | ----------- |
-| 01 | [Introduction to React and Components Component Based Architecture](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
-| 02 |  [State and Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                              |03 | |  
-|  04| |
-| 05 | |
-| 06 ||  |
-|07| |  
-|  08| |
-| 09 | |
-| 10 ||  |
-|11 | |  
-|  12| |
-| 13| |
-| 14 ||  |
+|  01 | [Introduction to React and Components Component Based Architecture](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
+|  02 | [State and Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |
+|  03 | [Passing Functions as Props](https://github.com/WllaTalafha/reading-notes/blob/main/passingFunctionsAsProp.md) |
+|  04 |             |
+|  05 |             |
+|  06 |             |
+
 
 ---
 ## Code 401 - Advanced Software Development
