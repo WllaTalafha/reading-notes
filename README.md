@@ -4,8 +4,6 @@
 follow me : [gitHub](https://github.com/WllaTalafha)
 ---
 
-### Table of Contents
----
 ## Code 102 - Intro to Software Development
 ---
 ## Code 201 - Foundations of Software Development
