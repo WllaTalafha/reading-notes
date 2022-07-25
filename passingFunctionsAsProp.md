@@ -12,7 +12,9 @@
 
 - you have to use list to save the data in list item that has li elements, then you have to use ReactDOM.render and render data by ul element.
 
-### **3-Each list item needs a unique _***Key***_.**
+### 3-Each list item needs a unique:
+
+**Key**.
 
 ### **4-What is the purpose of a key?**
 
@@ -24,7 +26,7 @@
 
 ### **1-What is the spread operator?**
 
-- it is ... used to expand array items and combining arrays and objects and more things also.
+- it is used to expand array items and combining arrays and objects and more things also.
 
 ### **2-List 4 things that the spread operator can do.**
 
