@@ -12,10 +12,21 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 ---
 ## Code 301 - Intermediate Software Development
 
-| no. | Headline |
+| no. | Title|
 | --- | ----------- |
 | 01 | [itro About React And Component](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
-| 02 |  [state And Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                                                    |
+| 02 |  [state And Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                              |03 | |  
+|  04| |
+| 05 | |
+| 06 ||  |
+|07| |  
+|  08| |
+| 09 | |
+| 10 ||  |
+|11 | |  
+|  12| |
+| 13| |
+| 14 ||  |
 
 ---
 ## Code 401 - Advanced Software Development
