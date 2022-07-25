@@ -15,7 +15,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 | no. | Headline |
 | --- | ----------- |
 | 01 | [itro About React And Component](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
-| 02 |  [stateAndProps](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                                                    |
+| 02 |  [state And Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                                                    |
 
 ---
 ## Code 401 - Advanced Software Development
