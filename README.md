@@ -1,6 +1,6 @@
 # reading-notes
 
-**Hello my name is Wlla I'm 25 years old .**
+***Hello my name is Wlla I'm 25 years old .***
 follow me : [gitHub](https://github.com/WllaTalafha)
 ---
 
@@ -11,7 +11,11 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 ## Code 201 - Foundations of Software Development
 ---
 ## Code 301 - Intermediate Software Development
-[Class01](Class01.md)
+
+| no. | Headline |
+| --- | ----------- |
+| 01 | [Read01](itroAboutReactAndComponent.md) |
+| 02 |  [Read02](stateAndProps.md) |                                                                                    |
 
 ---
 ## Code 401 - Advanced Software Development
