@@ -14,8 +14,8 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 
 | no. | Title|
 | --- | ----------- |
-| 01 | [itro About React And Component](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
-| 02 |  [state And Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                              |03 | |  
+| 01 | [Introduction to React and Components Component Based Architecture](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
+| 02 |  [State and Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |                                                              |03 | |  
 |  04| |
 | 05 | |
 | 06 ||  |
