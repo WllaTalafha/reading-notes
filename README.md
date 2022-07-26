@@ -15,7 +15,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 |  01 | [Introduction to React and Components Component Based Architecture](https://github.com/WllaTalafha/reading-notes/blob/main/itroAboutReactAndComponent.md) |
 |  02 | [State and Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |
 |  03 | [Passing Functions as Props](https://github.com/WllaTalafha/reading-notes/blob/main/passingFunctionsAsProp.md) |
-|  04 |             |
+|  04 | [React and Forms](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md)          |
 |  05 |             |
 |  06 |             |
 
