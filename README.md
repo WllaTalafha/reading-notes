@@ -16,7 +16,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 |  02 | [State and Props](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md) |
 |  03 | [Passing Functions as Props](https://github.com/WllaTalafha/reading-notes/blob/main/passingFunctionsAsProp.md) |
 |  04 | [React and Forms](https://github.com/WllaTalafha/reading-notes/blob/main/stateAndProps.md)          |
-|  05 |             |
+|  05 | [Putting it all together](https://github.com/WllaTalafha/reading-notes/blob/main/puttingItAllTogether.md)  |
 |  06 |             |
 
 
