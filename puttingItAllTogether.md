@@ -1,6 +1,10 @@
 # Putting it all together
 
+---
+
 ## Thinking in React
+
+---
 
 ### 1- What is the single responsibility principle and how does it apply to components?
 
@@ -29,6 +33,9 @@ classes in ES6.
 
 # Higher-Order Functions
 
+---
+
+
 ### 1-What is a “higher-order function”?
 
 Functions that operate on other functions, either by taking them as arguments or by returning them, are called higher-order functions.
@@ -44,5 +51,7 @@ compare between 2 values and return a boolean value
 reduce >> It builds a value by repeatedly taking a single element from the array and combining it with the current value.
 
 ## Things I want to know more about
+
+---
 
 Higher-Order Functions
