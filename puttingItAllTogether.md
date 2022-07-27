@@ -41,7 +41,7 @@ compare between 2 values and return a boolean value
 
 ### 3-Explain how either map or reduce operates, with regards to higher-order functions
 
-It builds a value by repeatedly taking a single element from the array and combining it with the current value.
+reduce >> It builds a value by repeatedly taking a single element from the array and combining it with the current value.
 
 ## Things I want to know more about
 
