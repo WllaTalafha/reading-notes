@@ -27,7 +27,7 @@ v16.15.1
 
 ## 7. What command would you type to install a library/package called ‘jshint’?
 
-npm install -g jshint
+npm install jshint
 
 ## 8. What is node used for?
 
