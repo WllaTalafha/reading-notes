@@ -20,6 +20,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 |  06 | [Node.JS](https://github.com/WllaTalafha/reading-notes/blob/main/nodeJS.md)          |
 |  07 | [Rest](https://github.com/WllaTalafha/reading-notes/blob/main/rest.md)          |
 |  08 | [APIs](https://github.com/WllaTalafha/reading-notes/blob/main/APIs.md)          |
+|  09 | [functional Programming](https://github.com/WllaTalafha/reading-notes/blob/main/functionalProgramming.md)          |
 
 ---
 ## Code 401 - Advanced Software Development
