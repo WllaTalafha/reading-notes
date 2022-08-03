@@ -21,6 +21,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 |  07 | [Rest](https://github.com/WllaTalafha/reading-notes/blob/main/rest.md)          |
 |  08 | [APIs](https://github.com/WllaTalafha/reading-notes/blob/main/APIs.md)          |
 |  09 | [functional Programming](https://github.com/WllaTalafha/reading-notes/blob/main/functionalProgramming.md)          |
+| 10 | [In memory storage](https://github.com/WllaTalafha/reading-notes/edit/main/inMemoryStorage.md)          |
 
 ---
 ## Code 401 - Advanced Software Development
