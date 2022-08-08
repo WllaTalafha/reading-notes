@@ -23,6 +23,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 |  09 | [functional Programming](https://github.com/WllaTalafha/reading-notes/blob/main/functionalProgramming.md)          |
 | 10 | [In memory storage](https://github.com/WllaTalafha/reading-notes/edit/main/inMemoryStorage.md)          |
 | 11 | [Mongo and Mongoose](https://github.com/WllaTalafha/reading-notes/blob/main/mongoAndMongoose.md)          |
+| 12 | [CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/CRUD.md)          |
 
 
 ---
