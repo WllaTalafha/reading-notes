@@ -24,7 +24,7 @@ follow me : [gitHub](https://github.com/WllaTalafha)
 | 10 | [In memory storage](https://github.com/WllaTalafha/reading-notes/edit/main/inMemoryStorage.md)          |
 | 11 | [Mongo and Mongoose](https://github.com/WllaTalafha/reading-notes/blob/main/mongoAndMongoose.md)          |
 | 12 | [CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/CRUD.md)          |
-| 13 | [CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/MoreCRUD.md)          |
+| 13 | [More CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/MoreCRUD.md)          |
 
 
 
