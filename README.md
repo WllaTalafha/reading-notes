@@ -30,7 +30,12 @@
 ---
 
 ## Code 401 - Advanced Software Development
-
+ pre work : 
 | no. | Title|
 | --- | ----------- |
-|  00 | pre work : [sql](./401/sql.md) |
+|  01 |[sql](./401/sql.md) |
+
+classes:
+| no. | Title|
+| --- | ----------- |
+|  01 |[]() |
