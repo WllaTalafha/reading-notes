@@ -21,7 +21,7 @@
 |  07 | [Rest](https://github.com/WllaTalafha/reading-notes/blob/main/301/rest.md)          |
 |  08 | [APIs](https://github.com/WllaTalafha/reading-notes/blob/main/301/APIs.md)          |
 |  09 | [functional Programming](https://github.com/WllaTalafha/reading-notes/blob/main/301/functionalProgramming.md)          |
-| 10 | [In memory storage](https://github.com/WllaTalafha/reading-notes/edit/main/301/inMemoryStorage.md)          |
+| 10 | [In memory storage](https://github.com/WllaTalafha/reading-notes/blob/main/301/inMemoryStorage.md)          |
 | 11 | [Mongo and Mongoose](https://github.com/WllaTalafha/reading-notes/blob/main/301/mongoAndMongoose.md)          |
 | 12 | [CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/301/CRUD.md)          |
 | 13 | [More CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/301/MoreCRUD.md)          |
