@@ -27,8 +27,8 @@
  pre work : 
 | no. | Title|
 | --- | ----------- |
-|  01 |[sql](./401/sql.md) |
-|  01 |[sql](https://github.com/WllaTalafha/reading-notes/blob/main/401/mindset.md) |
+|  01 |[SQL](./401/sql.md) |
+|  02 |[Mindset](https://github.com/WllaTalafha/reading-notes/blob/main/401/mindset.md) |
 
 
 classes:
