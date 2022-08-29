@@ -1,0 +1,38 @@
+# Mindset
+
+Improving your hard technical skills makes all the software you build better.
+To upgrade your hard technical skills , you'll need to apply deliberate practice.
+the software you build really must pushes you outside your comfort zone.
+You have to force yourself to learn, try,and dig deep to solve the problems you face.
+That's where deliberate practice comes in. 
+
+What is deliberate practice ?
+Activities designed, typically by a teacher, for the sole purpose of effectively improving specific aspects of an individual’s performance.
+
+The key ideas behind deliberate practice is that it:
+
+1- Pushes you just outside your comfort zone.
+2- Repeated often.
+3- Feedback on results in continuously available.
+4- It's highly demanding mentally.
+5- It's difficult.
+6- It requires good goals.
+
+The only person who understands your skillset well enough to teach you is you. 
+The challenges have to push you just outside your comfort zone.
+Whatever challenges you settle on, they need to be repeated often. 
+Much of the benefit of learning a new technique or skill is the ability to apply it in novel situations.
+You know you've upgraded your skills if you're mentally exhausted after a technical challenge.
+It doesn't matter a great deal what the end result is, only what you learned on the way.
+
+
+#### Some challenging sites
+
+  [ The Matasano Crypto Challenges ](https://web.archive.org/web/20160620111206/http://cryptopals.com)
+  <br>
+  [ Rosalind ](https://web.archive.org/web/20160607102654/http://rosalind.info/about)
+  
+  
+#### As what  Carol Dweck said 
+the idea that we can grow our brain's capacity to learn and to solve problems <br>
+[Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
