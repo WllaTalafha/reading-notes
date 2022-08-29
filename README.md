@@ -2,11 +2,7 @@
 
 ## Code 102 - Intro to Software Development
 
----
-
 ## Code 201 - Foundations of Software Development
-
----
 
 ## Code 301 - Intermediate Software Development
 
@@ -26,8 +22,6 @@
 | 12 | [CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/301/CRUD.md)          |
 | 13 | [More CRUD](https://github.com/WllaTalafha/reading-notes/blob/main/301/MoreCRUD.md)          |
 | 13 | [Diversity](https://github.com/WllaTalafha/reading-notes/blob/main/301/Diversity.md)          |
-
----
 
 ## Code 401 - Advanced Software Development
  pre work : 
