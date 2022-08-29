@@ -51,5 +51,6 @@ Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teachin
 
 ### A kinder, gentler philosophy of success
 Alain de Botton examines our ideas of success and failure -- and questions the assumptions underlying these two judgments. Is success always earned? Is failure? He makes an eloquent, witty case to move beyond snobbery to find true pleasure in our work.
+
 [Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
 
