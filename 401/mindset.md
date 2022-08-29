@@ -47,3 +47,9 @@ Carol Dweck researches “growth mindset” — the idea that we can grow our br
 Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of "grit" as a predictor of success.
 
 [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+
+
+### A kinder, gentler philosophy of success
+Alain de Botton examines our ideas of success and failure -- and questions the assumptions underlying these two judgments. Is success always earned? Is failure? He makes an eloquent, witty case to move beyond snobbery to find true pleasure in our work.
+[Alain de Botton on Redefining Success.](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)
+
