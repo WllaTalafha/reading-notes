@@ -36,3 +36,9 @@ It doesn't matter a great deal what the end result is, only what you learned on 
 #### As what  Carol Dweck said 
 Carol Dweck researches “growth mindset” — the idea that we can grow our brain's capacity to learn and to solve problems. she described two ways to think about a problem that’s slightly too hard for you to solve. Are you not smart enough to solve it … or have you just not solved it yet? A great introduction to this influential field. <br>
 [Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+
+
+### Grit: The power of passion and perseverance
+Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory of "grit" as a predictor of success.
+
+[Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
