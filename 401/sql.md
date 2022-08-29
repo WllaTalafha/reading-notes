@@ -73,3 +73,4 @@ FROM a_long_widgets_table_name AS mywidgets
 INNER JOIN widget_sales
   ON mywidgets.id = widget_sales.widget_id; </pre>
 
+## Lesson 10: 
