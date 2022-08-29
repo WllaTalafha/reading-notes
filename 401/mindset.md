@@ -12,10 +12,15 @@ Activities designed, typically by a teacher, for the sole purpose of effectively
 The key ideas behind deliberate practice is that it:
 
 1- Pushes you just outside your comfort zone.
+
 2- Repeated often.
+
 3- Feedback on results in continuously available.
+
 4- It's highly demanding mentally.
+
 5- It's difficult.
+
 6- It requires good goals.
 
 The only person who understands your skillset well enough to teach you is you. 
