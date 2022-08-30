@@ -29,6 +29,7 @@
 | --- | ----------- |
 |  01 |[SQL](./401/sql.md) |
 |  02 |[Mindset](https://github.com/WllaTalafha/reading-notes/blob/main/401/mindset.md) |
+|  03 |[Command line](https://github.com/WllaTalafha/reading-notes/blob/main/401/commandLine.md) |
 
 
 classes:
