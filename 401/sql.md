@@ -73,4 +73,6 @@ FROM a_long_widgets_table_name AS mywidgets
 INNER JOIN widget_sales
   ON mywidgets.id = widget_sales.widget_id; </pre>
 
-## Lesson 10: 
+## the result
+
+![finished](https://github.com/WllaTalafha/reading-notes/blob/main/401/assets/SQL%20lesson%20X.png?raw=true)
