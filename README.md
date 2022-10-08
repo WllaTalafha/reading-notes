@@ -40,5 +40,7 @@ classes:
 |  01 |[Express](https://github.com/WllaTalafha/reading-notes/blob/main/401/Express.md) |
 |  02 |[SQL database , ORM Sequelize](https://github.com/WllaTalafha/reading-notes/blob/main/401/SQLdatabaseORMSequelize.md) |
 |  03 |[Stack and Queue](https://github.com/WllaTalafha/reading-notes/blob/main/401/Stack%26Queue.md) |
+|  04 |[Reducer](https://github.com/WllaTalafha/reading-notes/blob/main/401/Reducer.md) |
+
 
 
