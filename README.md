@@ -42,7 +42,7 @@ classes:
 |  03 |[Stack and Queue](https://github.com/WllaTalafha/reading-notes/blob/main/401/Stack%26Queue.md) |
 |  04 |[Reducer](https://github.com/WllaTalafha/reading-notes/blob/main/401/Reducer.md) |
 |  05 |[socketIO](https://github.com/WllaTalafha/reading-notes/blob/main/401/socketIO.md)|
-|  06 |[socketIO](https://github.com/WllaTalafha/reading-notes/blob/main/401/hashTables.md)|
+|  06 |[hashTables](https://github.com/WllaTalafha/reading-notes/blob/main/401/hashTables.md)|
 
 
 
