@@ -43,6 +43,8 @@ classes:
 |  04 |[Reducer](https://github.com/WllaTalafha/reading-notes/blob/main/401/Reducer.md) |
 |  05 |[socketIO](https://github.com/WllaTalafha/reading-notes/blob/main/401/socketIO.md)|
 |  06 |[hashTables](https://github.com/WllaTalafha/reading-notes/blob/main/401/hashTables.md)|
+|  07 |[chackra](https://github.com/WllaTalafha/reading-notes/blob/main/401/chackra.md)|
+
 
 
 
